@@ -47,7 +47,7 @@ class App extends Component {
       }
       this.setState({ loading: false})
     } else {
-      window.alert('MAKE SURE YOU CONNECT YOUR METAMASK WALLET TO THE KOVAN TEST NETWORK!')
+      window.alert('CONNECT YOUR METAMASK WALLET TO THE KOVAN TEST NETWORK!')
     }
   }
 
