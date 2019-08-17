@@ -37,6 +37,7 @@ class Main extends Component {
         <table className="table">
           <thead>
             <tr>
+              <th scope="col">#</th>
               <th scope="col">Name</th>
               <th scope="col">Price</th>
               <th scope="col">Provider</th>
